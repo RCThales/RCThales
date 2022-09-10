@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RCThales
 - 👀 I’m interested in Programming and Arts in general!
-- 🌱 I’m currently learning Web Development.
+- 🌱 Always learning new things.
 - 💞️ I’m looking to collaborate on softwares related to music.
 - 📫 How to reach me => canadathales@gmail.com
 
