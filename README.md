@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RCThales
-- 👀 I’m interested in Programming and Arts in general!
+- 👋 Hi, I’m Thales Cardoso
+- 👀 I’m interested in Developing and Arts in general!
 - 🌱 Always learning new things.
-- 💞️ I’m looking to collaborate on softwares related to music.
+- 💞️ Always looking to collaborate.
 - 📫 How to reach me => canadathales@gmail.com
 
 <!---
