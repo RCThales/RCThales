@@ -1,4 +1,4 @@
-- 👋 Hi, I am Thales Cardoso
+- 👋 Hi, I am Thales Rodrigues Cardoso
 - 👀 I am interested in Arts and Tech! 
 - 🌱 LOVES TO `create`
 - 💞️ Always wanting to collaborate
