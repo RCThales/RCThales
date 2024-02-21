@@ -2,7 +2,7 @@
 - 👀 I am interested in Arts and Tech! 
 - 🌱 LOVES TO `create`
 - 💞️ Always wanting to collaborate
-- 📫 Contact me => canadathales@gmail.com
+- 📫 Contact me => thalescardris@gmail.com
 - http://www.thalescardosodev.com
 
 
