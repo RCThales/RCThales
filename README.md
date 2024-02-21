@@ -1,6 +1,6 @@
 - 👋 Hi, I am Thales Cardoso
 - 👀 I am interested in Arts and Tech! 
-- 🌱 Addicted to studying 
+- 🌱 LOVES TO `create`
 - 💞️ Always wanting to collaborate
 - 📫 Contact me => canadathales@gmail.com
 - http://www.thalescardosodev.com
